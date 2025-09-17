@@ -1,10 +1,13 @@
 // List 컬렉션 예제: 순서 유지, 중복 허용
 
+package java_basics_01;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
 public class ListExample {
+
     public static void main(String[] args) {
         // ArrayList: 조회 빠른 경우 적합
         List<String> users = new ArrayList<>();
