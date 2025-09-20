@@ -16,7 +16,7 @@
 - 두 숫자의 합 연산을 함수처럼 변수에 담아 전달 가능
 - 이벤트 처리, 콜백, 정렬 기준 지정 등에 자주 사용됨
 
-### 🧑‍💻 예제 코드 - [LambdaExample.java](../../src/Chapter03/modern_java_syntax_02/LambdaExample.java)
+### 🧑‍💻 예제 코드 - [LambdaExample.java](../../src/chapter03/modern_java_syntax_02/LambdaExample.java)
 
 ---
 
@@ -32,7 +32,7 @@
 - 조건(`길이 > 3`)에 맞는 데이터만 걸러내기
 - 결과를 `List`, `Set` 등 컬렉션으로 수집
 
-### 🧑‍💻 예제 코드 - [StreamExample.java](../../src/Chapter03/modern_java_syntax_02/StreamExample.java)
+### 🧑‍💻 예제 코드 - [StreamExample.java](../../src/chapter03/modern_java_syntax_02/StreamExample.java)
 
 ---
 
@@ -53,7 +53,7 @@
 - **메서드 파라미터**로 받는 것도 안티패턴 (불필요하게 감싸기만 함)
 - 주로 **메서드 반환 타입**에서 사용
 
-### 🧑‍💻 예제 코드 - [OptionalExample.java](../../src/Chapter03/modern_java_syntax_02/OptionalExample.java)
+### 🧑‍💻 예제 코드 - [OptionalExample.java](../../src/chapter03/modern_java_syntax_02/OptionalExample.java)
 
 ---
 

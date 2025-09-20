@@ -1,6 +1,6 @@
 // List 컬렉션 예제: 순서 유지, 중복 허용
 
-package Chapter03.java_basics_01;
+package chapter03.java_basics_01;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

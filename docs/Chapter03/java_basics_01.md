@@ -16,7 +16,7 @@
 - 클라이언트는 `Payment` 타입만 알고 있어도 다양한 결제 수단 처리 가능
 - 새로운 결제 방식이 추가되더라도 기존 코드 변경은 최소화
 
-### 🧑‍💻 예제 코드 - [PolymorphismExample.java](../../src/Chapter03/java_basics_01/PolymorphismExample.java)
+### 🧑‍💻 예제 코드 - [PolymorphismExample.java](../../src/chapter03/java_basics_01/PolymorphismExample.java)
 
 ---
 
@@ -32,7 +32,7 @@
 - 채팅 메시지를 순서대로 보관할 때 `List` 사용 → 입력 순서가 유지됨
 - 삽입/삭제가 잦은 큐 같은 구조에는 `LinkedList`가 유리
 
-### 🧑‍💻 예제 코드 - [ListExample.java](../../src/Chapter03/java_basics_01/ListExample.java)
+### 🧑‍💻 예제 코드 - [ListExample.java](../../src/chapter03/java_basics_01/ListExample.java)
 
 ---
 
@@ -48,4 +48,4 @@
 - `HashSet`에 `User` 객체를 넣을 때 `equals()`와 `hashCode()`를 올바르게 구현하지 않으면 중복된 데이터가 걸러지지 않을 수 있음
 
 ### 🧑‍💻 예제 코드
-- [EqualityExample.java](../../src/Chapter03/java_basics_01/EqualityExample.java)
+- [EqualityExample.java](../../src/chapter03/java_basics_01/EqualityExample.java)
