@@ -1,6 +1,6 @@
 // 동일성과 동등성 예제: == vs equals, hashCode()
 
-package java_basics_01;
+package Chapter03.java_basics_01;
 
 import java.util.HashSet;
 import java.util.Objects;

@@ -1,5 +1,5 @@
 // 스트림 API 예제: 선언형 데이터 처리
-package modern_java_syntax_02;
+package Chapter03.modern_java_syntax_02;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,5 +1,5 @@
 // 람다 표현식 예제: 함수형 인터페이스 활용
-package modern_java_syntax_02;
+package Chapter03.modern_java_syntax_02;
 
 import java.util.Arrays;
 import java.util.List;

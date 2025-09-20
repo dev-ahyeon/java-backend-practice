@@ -1,5 +1,5 @@
 // Optional 예제: null-safe 코드 작성
-package modern_java_syntax_02;
+package Chapter03.modern_java_syntax_02;
 
 import java.util.Optional;
 

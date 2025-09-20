@@ -1,6 +1,6 @@
 // 다형성 예제: 상속 + 인터페이스 활용
 
-package java_basics_01;
+package Chapter03.java_basics_01;
 
 // 추상 클래스
 abstract class Payment {
